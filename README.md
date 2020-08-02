@@ -12,7 +12,12 @@ Automatic playlist generator tool for generating valid playlists library for Vol
 * Lingua::Translit
 
 # Attention
-Script **will rename non-english** filenames and foldres in .
+Script **will rename non-english** filenames and foldres with media files (mp3, flac, mp4).
+
+# Usage
+```
+./generate_m3u.pl PATH1 PATH2 PATH3
+```
 
 # Folder structure
 
